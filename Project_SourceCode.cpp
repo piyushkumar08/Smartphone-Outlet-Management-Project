@@ -1,14 +1,14 @@
-// &&&&&&&     COMPUTER SCIENCE PROJECT WORK      &&&&&&&&&&   //
-//	           SOFTWARE FOR THE USE IN SMARTPHONE OUTLET      //                                 
-//							                                 //
+// &&&&&&&     COMPUTER SCIENCE PROJECT WORK      &&&&&&&&&&           //
+//	           SOFTWARE FOR THE USE IN SMARTPHONE OUTLET          //                                 
+//							             //
 //		 *******INTRODUCTION*******                         //
 //		    NAME:- PIYUSH KUMAR                            //
 //		    CLASS:- XII A                                 //
 //		    ROLL NO:- '24'                               //
-//	     SCHOOL: - THE LAWRENCE PUBLIC SCHOOL           //
+//	     SCHOOL: - THE LAWRENCE PUBLIC SCHOOL               //
 //		 *******-----------*********                   //
 //	     Password (if required) :-  MyShowroom 	      //
-//                                                   //
+//                                                           //
 
 /*        HEADER FILES        */
 
